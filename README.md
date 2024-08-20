@@ -2,6 +2,7 @@
 Target Localization using self-coordinates and measured angle - EE Final Project 
 
 Project Overview:
+
 This project is part of an EE final project focused on target localization using self-coordinates and measured angles. The system is designed to determine the position of a target based on sensor data and model it in MATLAB Simulink.
 
 Project Components:

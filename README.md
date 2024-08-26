@@ -12,6 +12,7 @@ Project Components:
     sensorlog_20240704_142451_static_target.mat - Raw sensor data for a static target scenario.
     sensorlog_20240710_172209_dynamic_target.mat - Raw sensor data for a dynamic target scenario.
 4. Data Preprocessing Script: sensorlog_to_simulink.m - A MATLAB script that converts the raw sensor data into a timetable format for use in the real measurement Simulink model and creates the path and relative bearing plots.
+5. Project Report, written in Hebrew: Project_Report_22-1-1-2731.pdf
 
 How to use:
 1. Select Sensor Log Data: Choose the appropriate sensor log file based on the scenario you want to test (static or dynamic target). Save the log file on the same folder with the sensorlog_to_simulink.m script.
